@@ -115,7 +115,6 @@ The new sound approach and feature selection pipeline was found to be as follows
   - Hyperparameters: Hidden layers (100, 50), uses Adam optimizer
 
 Results are reported in results/reports/classification-summary.txt
-The test files will be preserved for later improvements. This repository is intended for sharing the optimized pipeline designed after rigirous tests and parameter evaluation.
 
 ## Acknowledgments
 - UCI Machine Learning Repository for the EEG Eye State dataset
